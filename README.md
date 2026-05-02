@@ -65,12 +65,6 @@ Hey there — I love showing up here and doing a few <b>push-ups</b> (the <code>
   <img src="https://komarev.com/ghpvc/?username=GamerNCoder&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/rachitkumarrastogi" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Inspired%20by-dad's%20README-1e293b?style=for-the-badge&logo=github&logoColor=white" alt="Inspired by dad's profile" />
-  </a>
-</p>
-
 ---
 
 <h3 align="left">Connect with me</h3>
