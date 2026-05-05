@@ -94,8 +94,8 @@ Hey there — I love showing up here and doing a few <b>push-ups</b> (the <code>
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GamerNCoder&show_icons=true&theme=tokyonight&hide_title=false" alt="GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GamerNCoder&layout=compact&theme=tokyonight&hide_title=false" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api?username=GamerNCoder&show_icons=true&locale=en&theme=tokyonight&hide_title=false" alt="GitHub stats" height="170" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs?username=GamerNCoder&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_title=false&include_all_commits=true" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
