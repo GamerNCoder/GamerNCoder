@@ -24,6 +24,16 @@
 
 <hr style="border:0.5px solid #eaeaea; margin:20px 0;"/>
 
+<h2 align="left">📌 Featured projects</h2>
+
+<ul align="left" style="font-size:16px; line-height:1.6;">
+  <li><b>TraceNeuro</b> — offline human vs AI text authenticity scoring (FastAPI + Next.js)</li>
+  <li><b>TheKoreSec</b> — cybersecurity learning platform (Vite + Supabase + Edge functions)</li>
+  <li><b>AI News Daily</b> — RSS digest API + web UI (FastAPI + Vite)</li>
+</ul>
+
+<hr style="border:0.5px solid #eaeaea; margin:20px 0;"/>
+
 <h2 align="left">🧩 How I like to work</h2>
 
 <p align="left" style="line-height:1.6; font-size:16px;">
